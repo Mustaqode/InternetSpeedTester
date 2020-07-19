@@ -94,7 +94,7 @@ Add the following dependencies in your project and root level gradle files
   2) Add required dependencies if you want to use coroutine. The coroutine function suspends until the result is obtained from the network call. 
   3) Add required permissions. 
   
-  I hope this library will be useful to you. Contribute if you want to improve this or you got any better approach. Thanks for visiting. 
+  I hope this library will be useful to you. Contribute if you want to improve this with a better approach. Thanks for visiting. 
         
    
 
