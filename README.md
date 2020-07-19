@@ -1,6 +1,8 @@
 
 [![](https://jitpack.io/v/Mustaqode/InternetSpeedTester.svg)](https://jitpack.io/#Mustaqode/InternetSpeedTester)
 # InternetSpeedTester 
+An android library to obtain the connection speed of your internet easily and notify user.
+
 <img src="internetSpeedTester.png" width="300" height="600" align="center" />
 
 ## Dependencies
