@@ -1,0 +1,3 @@
+include ':InternetSpeedTest'
+include ':app'
+rootProject.name = "InternetSpeedTester"
